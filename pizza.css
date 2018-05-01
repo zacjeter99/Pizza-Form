@@ -1,0 +1,13 @@
+body {background-color: gold;}
+
+h1 {
+font-size: 45px;
+font-weight: normal;
+    color: White;
+}
+
+p {
+letter-spacing: 2px;
+font-style: italic;
+    text-align: center;
+}
